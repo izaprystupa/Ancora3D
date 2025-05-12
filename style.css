@@ -1,0 +1,9 @@
+h1 { text-align: center;
+border-color: cornflowerblue;
+border-style: dashed;
+border-width: 50px;
+background-color: rgb(6, 247, 247);
+}
+
+h2 {text-align: left;}
+
