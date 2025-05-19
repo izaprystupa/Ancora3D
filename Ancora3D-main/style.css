@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(157, 216, 236);
+}
+
+
+
+h1 { text-align: center;
+border-color: cornflowerblue;
+border-style: dashed;
+border-width: 20px;
+background-color: rgb(6, 247, 247);
+}
+
+h2 {text-align: center;
+border-color: cornflowerblue;
+border-width: 20px;
+border-style: ridge;
+background-color: rgb(6, 247, 247);}
+
+
+h3 { text-align: center;
+background-color: aliceblue;
+}
+
